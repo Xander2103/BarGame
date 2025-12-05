@@ -1,0 +1,7 @@
+# Unreal typical
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.log
+*.tmp
