@@ -12,10 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="071f4139-53b1-451e-befd-abb02eab54a0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Multiplayer/Blueprints/Lobby/BP_LobbyGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Multiplayer/Blueprints/Lobby/BP_LobbyGameMode.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Multiplayer/Blueprints/Lobby/BP_PlayerSLot.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Multiplayer/Blueprints/Lobby/BP_PlayerSLot.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Multiplayer/levels/LobbyLevel.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Multiplayer/levels/LobbyLevel.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Multiplayer/Blueprints/BP_GameInstance.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Multiplayer/Blueprints/BP_GameInstance.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Multiplayer/levels/LoadInLevel.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Multiplayer/levels/LoadInLevel.umap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +25,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../../../../Program Files/Epic Games/UE_5.6/Engine/Source/Runtime/GameplayTags/Classes/BlueprintGameplayTagLibrary.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedSessionsLibrary.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -39,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -125,7 +125,10 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
-      <deployment type="dockerfile" />
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
       <method v="2" />
     </configuration>
   </component>
@@ -139,6 +142,7 @@
       <updated>1764763378247</updated>
       <workItem from="1764763379033" duration="4000" />
       <workItem from="1764939177622" duration="593000" />
+      <workItem from="1767033632814" duration="549000" />
     </task>
     <servers />
   </component>
