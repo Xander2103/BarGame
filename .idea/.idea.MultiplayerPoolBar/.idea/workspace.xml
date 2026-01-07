@@ -12,11 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="071f4139-53b1-451e-befd-abb02eab54a0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Content/BPFL_Functions.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/BPFL_Functions.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/4T/49ZNQMIQYJ68UPNW92BWAT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/4T/49ZNQMIQYJ68UPNW92BWAT.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/H8/MCY8JL7EAQIAPRIDOWRI7D.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/H8/MCY8JL7EAQIAPRIDOWRI7D.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiplayerPoolBar.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/MultiplayerPoolBar.sln.DotSettings.user" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +25,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../../../../Program Files/Epic Games/UE_5.6/Engine/Source/Runtime/Engine/Classes/GameFramework/Character.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../Program Files/Epic Games/UE_5.6/Engine/Source/Runtime/GameplayTags/Classes/BlueprintGameplayTagLibrary.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedSessionsLibrary.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedSessionsLibrary.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -149,6 +145,7 @@
       <workItem from="1767033632814" duration="549000" />
       <workItem from="1767560930379" duration="2000" />
       <workItem from="1767648398513" duration="499000" />
+      <workItem from="1767822110297" duration="650000" />
     </task>
     <servers />
   </component>
