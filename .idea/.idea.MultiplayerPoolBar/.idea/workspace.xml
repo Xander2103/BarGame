@@ -23,6 +23,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../../../Program Files/Epic Games/UE_5.6/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../Program Files/Epic Games/UE_5.6/Engine/Source/Runtime/Engine/Classes/GameFramework/Character.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../Program Files/Epic Games/UE_5.6/Engine/Source/Runtime/GameplayTags/Classes/BlueprintGameplayTagLibrary.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedSessionsLibrary.cpp" root0="FORCE_HIGHLIGHTING" />
@@ -146,6 +147,7 @@
       <workItem from="1767560930379" duration="2000" />
       <workItem from="1767648398513" duration="499000" />
       <workItem from="1767822110297" duration="650000" />
+      <workItem from="1778513735829" duration="2000" />
     </task>
     <servers />
   </component>
